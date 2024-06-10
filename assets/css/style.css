@@ -500,9 +500,29 @@ header .navbar ul li a:hover {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   gap: 1rem;
   margin-top: 1rem;
+  width: 100%; /* Set the desired width */
+  height: 100%; /* Set the desired height */
+  box-sizing: border-box; /* Include padding and border in the element's total width and height */
+  text-align: center; /* Center the text horizontally */
 }
+
+.skills .container .bar .info img {
+  width: 48px; /* Set the desired icon width */
+  height: 48px; /* Set the desired icon height */
+}
+
+.skills .container .bar .info span {
+  width: 100%; /* Make the span take full width */
+  height: 20px; /* Set a fixed height for the text */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
 .skills .container .bar .info i {
   font-size: 4rem;
 }
@@ -555,6 +575,7 @@ header .navbar ul li a:hover {
   display: flex;
   flex-direction: row;
   width: 80%;
+  height: 80%;
   border-radius: 0.5rem;
   box-shadow: 0.2rem 0.5rem 1rem rgba(0, 0, 0, 0.2);
   text-align: center;
@@ -571,6 +592,7 @@ header .navbar ul li a:hover {
 .education .box-container .box .image {
   flex: 1 1 20rem;
   width: 100%;
+  
 }
 .education .box-container .box img {
   object-fit: cover;

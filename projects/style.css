@@ -168,7 +168,7 @@ header .navbar ul li a:hover{
 .work .heading span{
   color: rgb(255, 230, 0);
 }
-.work .button-group{
+/* .work .button-group{
   display: flex;
   flex-wrap: wrap;
   gap:1rem;
@@ -176,7 +176,7 @@ header .navbar ul li a:hover{
   width: 50%;
   justify-content: center;
   align-items: center;
-}
+} */
 .work .button-group .btn{
   outline: none;
   padding: 1rem 2rem;
@@ -191,15 +191,23 @@ header .navbar ul li a:hover{
   background-color: #fff;
   color: #000;
 }
-.work .button-group .btn.is-checked{
+.work .button-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem; 
+}
+
+.work .button-group .btn.is-checked {
   background-color: #fff;
   color: #000;
 }
+
 .work .box-container{
   display: flex;
   flex-wrap: wrap;
-  gap:1.5rem;
-  margin: 2rem;
+  gap: 22rem;
+  margin: 18rem;
 }
 .work .box-container .box{
   flex:1 1 30rem;
