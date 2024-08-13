@@ -10,53 +10,23 @@
     }
   },
   {
-    "name": "CampusNest",
-    "desc": "CampusNest is a Student Accomodation locator for the christ university students",
-    "image": "CampusNest",
+    "name": "Pixelligence",
+    "desc": " An intelligent pixel transformations, powered by AI.",
+    "image": "Pixelligence",
     "category": "mern",
     "links": {
-      "view": "https://campusnest-bbwd.onrender.com/",
-      "code": "https://github.com/hrishabh-16/Campus_Nest"
+      "view": "https://pixelligence.vercel.app/",
+      "code": "https://github.com/hrishabh-16/Pixelligence"
     }
   },
   {
-    "name": "CampusNest",
-    "desc": "CampusNest is a Student Accomodation locator for the christ university students",
-    "image": "CampusNest",
+    "name": "TeachShare : Grow Together , Learn Togther",
+    "desc": "An open source  web application acting as a resource sharing platform",
+    "image": "TeachShare : Grow Together , Learn Togther",
     "category": "mern",
     "links": {
       "view": "https://campusnest-bbwd.onrender.com/",
-      "code": "https://github.com/hrishabh-16/Campus_Nest"
-    }
-  },
-  {
-    "name": "CampusNest",
-    "desc": "CampusNest is a Student Accomodation locator for the christ university students",
-    "image": "CampusNest",
-    "category": "mern",
-    "links": {
-      "view": "https://campusnest-bbwd.onrender.com/",
-      "code": "https://github.com/hrishabh-16/Campus_Nest"
-    }
-  },
-  {
-    "name": "CampusNest",
-    "desc": "CampusNest is a Student Accomodation locator for the christ university students",
-    "image": "CampusNest",
-    "category": "mern",
-    "links": {
-      "view": "https://campusnest-bbwd.onrender.com/",
-      "code": "https://github.com/hrishabh-16/Campus_Nest"
-    }
-  },
-  {
-    "name": "CampusNest",
-    "desc": "CampusNest is a Student Accomodation locator for the christ university students",
-    "image": "CampusNest",
-    "category": "mern",
-    "links": {
-      "view": "https://campusnest-bbwd.onrender.com/",
-      "code": "https://github.com/hrishabh-16/Campus_Nest"
+      "code": "https://github.com/Suraj-Biswas23/TeachShare"
     }
   }
 ]
