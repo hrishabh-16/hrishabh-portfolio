@@ -22,10 +22,10 @@
   {
     "name": "TeachShare : Grow Together , Learn Togther",
     "desc": "An open source  web application acting as a resource sharing platform",
-    "image": "TeachShare : Grow Together , Learn Togther",
+    "image": "teachshare",
     "category": "mern",
     "links": {
-      "view": "https://campusnest-bbwd.onrender.com/",
+      "view": "https://teachshare.vercel.app/",
       "code": "https://github.com/Suraj-Biswas23/TeachShare"
     }
   }
