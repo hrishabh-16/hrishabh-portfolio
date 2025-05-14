@@ -28,5 +28,15 @@
       "view": "https://teachshare.vercel.app/",
       "code": "https://github.com/Suraj-Biswas23/TeachShare"
     }
+  },
+  {
+    "name": "TaskForge - A Modern Task Management Solution",
+    "desc": "A comprehensive full-stack task management application designed to help individuals and teams organize, track, and complete tasks efficiently",
+    "image": "TaskForge",
+    "category": "Angular",
+    "links": {
+      "view": "https://todo-frontend-ynwm.onrender.com/",
+      "code": "https://github.com/hrishabh-16/TaskForge"
+    }
   }
 ]
